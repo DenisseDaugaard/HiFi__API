@@ -1,23 +1,18 @@
 {
-  "name": "the-petapp-api",
+  "name": "jsonserverauth",
   "version": "1.0.0",
-  "description": "api for the petapp assignment",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "json-server --watch db.json --port 4000",
+    "start": "node server",
+    "vercel-build": "node server",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rts-cmk-opgaver/frameworks1-petapp-api.git"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rts-cmk-opgaver/frameworks1-petapp-api/issues"
-  },
-  "homepage": "https://github.com/rts-cmk-opgaver/frameworks1-petapp-api#readme",
   "dependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0",
+    "json-server-relationship": "^0.14.5"
   }
 }

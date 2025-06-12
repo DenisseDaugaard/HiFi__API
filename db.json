@@ -1,35 +1,110 @@
 {
-    "user": {
-        "image": "http://localhost:4000/filebucket/user.jpg",
-        "location": "New York City"
-    },
-    "dogs": [
-        {
-        "id": 1,
-        "image": "http://localhost:4000/filebucket/dog1.png",
-        "breed": "Greyhound",
-        "gender": "male",
-        "location": "New York City",
-        "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind",
-        "long_description": "The dog (Canis familiaris when considered a distinct species or Canis lupus familiaris when considered a subspecies of the wolf) is a domesticated carnivore of the family Canidae, known for its loyalty, intelligence, and long-standing companionship with humans across various cultures and environments."
+  "users": [
+    {
+      "id": 1,
+      "email": "clu@mail.dk",
+      "username": "Carsten",
+      "password": "$2a$10$bbeRYksb2wHNhyc3Zeq9aOSVM0gIJ2qbnqD.PCQqbA/RTw2jqfbQS",
+      "name": "Carsten Lund"
     },
     {
-        "id": 2,
-        "image": "http://localhost:4000/filebucket/dog2.png",
-        "breed": "Dobermann",
-        "gender": "male",
-        "location": "Atlanta",
-        "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind",
-        "long_description": "The dog (Canis familiaris when considered a distinct species or Canis lupus familiaris when considered a subspecies of the wolf) is a domesticated carnivore of the family Canidae, known for its loyalty, intelligence, and long-standing companionship with humans across various cultures and environments."
+      "email": "be@rts.dk",
+      "password": "$2a$10$UfP6k.L1l0g2bVXilU1m4.urko74nX91sSxAmyMexBAexh5kHrdmK",
+      "id": 2
     },
     {
-        "id": 3,
-        "image": "http://localhost:4000/filebucket/dog3.png",
-        "breed": "Pomeranian",
-        "gender": "female",
-        "location": "Philadelphia",
-        "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind",
-        "long_description": "The dog (Canis familiaris when considered a distinct species or Canis lupus familiaris when considered a subspecies of the wolf) is a domesticated carnivore of the family Canidae, known for its loyalty, intelligence, and long-standing companionship with humans across various cultures and environments."
+      "email": "den@rts.dk",
+      "password": "$2a$10$6hfg/d2hRNElbMmx/yyGuObps.GkOggcijwKmxtG/5NKNprcMAL.i",
+      "username": "Denisse Daugaard",
+      "id": 3
+    },
+    {
+      "email": "user@exp.dk",
+      "password": "$2a$10$4AT2cOwXGszk6QbZVoiG9e27A4JROSuTkK1dpZpHzgN.j7C6PJqDW",
+      "username": "Random User",
+      "id": 4
     }
-    ]
+  ],
+  "secrets": [
+    {
+      "id": 1001,
+      "quote": "Three may keep a secret, if two of them are dead.",
+      "author": "Benjamin Franklin",
+      "origin": "Poor Richard's Almanack"
+    },
+    {
+      "id": 1002,
+      "quote": "If you want to keep a secret, you must also hide it from yourself.",
+      "author": "George Orwell",
+      "origin": "1984"
+    },
+    {
+      "id": 1003,
+      "quote": "Secrets, silent, stony sit in the dark palaces of both our hearts: secrets weary of their tyranny: tyrants willing to be dethroned.",
+      "author": "James Joyce",
+      "origin": "Ulysses"
+    },
+    {
+      "id": 1004,
+      "quote": "We dance round in a ring and suppose, but the secret sits in the middle and knows.",
+      "author": "Robert Frost",
+      "origin": "The Secret Sits"
+    }
+  ],
+  "statements": [
+    {
+      "id": 2001,
+      "sentence": "This coffee shop is cozy."
+    },
+    {
+      "id": 2002,
+      "sentence": "It is never too late to learn."
+    },
+    {
+      "id": 2003,
+      "sentence": "These socks do not match."
+    },
+    {
+      "id": 2004,
+      "sentence": "I am interested in music."
+    }
+  ],
+   "products":[
+    {
+      "id": 3001,
+      "name": "speaker",
+      "price": 100.00 ,
+      "description": "Wokrs very well",
+      "category": "popular",
+      "tag": "popular",
+      "img": "http://localhost:4000/Produktbilleder/hojtalere/epos_m5.gif"
+    },
+    {
+      "id": 3002,
+      "name": "speaker 2",
+      "price": 150.00,
+      "description": "Its very nice ",
+      "category": "hojtalerer",
+      "tag": "popular",
+      "img": "http://localhost:4000/Produktbilleder/hojtalere/harbeth_hl7es2.jpg"
+    },
+    {
+      "id": 3003,
+      "name": "speaker 3",
+      "price": 200.00,
+      "description": "its pawerful",
+      "category": "hojtalerer",
+      "tag": "popular",
+      "img": "http://localhost:4000/Produktbilleder/hojtalere/boesendorfer_vcs_wall.gif"
+    },
+    {
+      "id": 3004,
+      "name": "speaker 4",
+      "price": 200.00,
+      "description": "its pawerful",
+      "category": "hojtalerer",
+      "tag": "popular",
+      "img": "http://localhost:4000/Produktbilleder/hojtalere/harbeth_monitor30.jpg"
+    }
+   ]
 }

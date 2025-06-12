@@ -1,15 +1,5 @@
-# The Petapp API
+#API til loginøvelser
 
-Install
+Clon reporsitory og kør npm start
 
-```
-npm install
-```
-
-Run
-
-```
-npm start
-```
-
-Read about `json-server` to learn how to do things like pagination and limitation on https://www.npmjs.com/package/json-server
+Dokumentation: http://localhost:4000
