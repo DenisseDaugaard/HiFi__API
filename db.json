@@ -1,0 +1,35 @@
+{
+    "user": {
+        "image": "http://localhost:4000/filebucket/user.jpg",
+        "location": "New York City"
+    },
+    "dogs": [
+        {
+        "id": 1,
+        "image": "http://localhost:4000/filebucket/dog1.png",
+        "breed": "Greyhound",
+        "gender": "male",
+        "location": "New York City",
+        "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind",
+        "long_description": "The dog (Canis familiaris when considered a distinct species or Canis lupus familiaris when considered a subspecies of the wolf) is a domesticated carnivore of the family Canidae, known for its loyalty, intelligence, and long-standing companionship with humans across various cultures and environments."
+    },
+    {
+        "id": 2,
+        "image": "http://localhost:4000/filebucket/dog2.png",
+        "breed": "Dobermann",
+        "gender": "male",
+        "location": "Atlanta",
+        "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind",
+        "long_description": "The dog (Canis familiaris when considered a distinct species or Canis lupus familiaris when considered a subspecies of the wolf) is a domesticated carnivore of the family Canidae, known for its loyalty, intelligence, and long-standing companionship with humans across various cultures and environments."
+    },
+    {
+        "id": 3,
+        "image": "http://localhost:4000/filebucket/dog3.png",
+        "breed": "Pomeranian",
+        "gender": "female",
+        "location": "Philadelphia",
+        "short_description": "Taking care of a pet is my favorite, it helps me to ease my mind",
+        "long_description": "The dog (Canis familiaris when considered a distinct species or Canis lupus familiaris when considered a subspecies of the wolf) is a domesticated carnivore of the family Canidae, known for its loyalty, intelligence, and long-standing companionship with humans across various cultures and environments."
+    }
+    ]
+}
