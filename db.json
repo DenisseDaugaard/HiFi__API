@@ -106,5 +106,76 @@
       "tag": "popular",
       "img": "http://localhost:4000/Produktbilleder/hojtalere/harbeth_monitor30.jpg"
     }
-   ]
+   ],
+   "aboutUs": {
+    "id": 4001,
+    "mainTitle": "OUR HISTORY",
+    "lastUpdated": "2025-06-16T10:00:00Z",
+    "history": {
+      "title": "History",
+      "image": "/assets/Firmabilleder/founders.png",
+      "imageAlt": "Historical photo of the founders",
+      "highlightText": "Established in the late 1960s, our family owned business is based in Edinburgh and Falkirk, but services customers across the UK.",
+      "paragraphs": [
+        "Our Edinburgh branch has the longest history as an audio retailer in the UK. During recent years, the staff have been joined by experienced personnel directly from the business back to 1926. In the 1950s WG Graham took over the shop and renamed it WG Graham's HiFi Corner. Upon his retirement, Graham Trio bought the business and modernized the name to HiFi Horizon.",
+        "Soon thereafter a young enthusiastic Colin MacKenzie (left), who was recommended by Linn's own Ivor Tiefenbrun, was employed to manage the shop, with a knack for business and the desire to succeed. By 1980 Colin MacKenzie had become the owner of HiFi Horizon. Today, Struan MacKenzie carries on the legacy as the company's Managing Director."
+      ]
+    },
+    "hearDifference": {
+      "title": "Hear The Difference",
+      "image": "/assets/Firmabilleder/speakers.png",
+      "imageAlt": "Audio showroom with speakers",
+      "highlightText": "Book a demonstration at our Edinburgh or Falkirk showrooms.",
+      "paragraphs": [
+        {
+          "type": "body",
+          "text": "Would you choose a quality car without a test drive? If you are familiar with the brand and have great trust in it, you might. However, our listening preferences are unique to the individual and with many of our customers new to the world of high quality sound and vision, we encourage everyone to come in to demonstrate the products before making any decisions. Demonstrations are available by appointment in both our Edinburgh and Falkirk premises where you can decide for yourself if the kit is right for you. We also offer home demonstrations on selected products."
+        },
+        {
+          "type": "emphasis",
+          "text": "It's our aim to get the right product for you."
+        },
+        {
+          "type": "body",
+          "text": "Our experts are on hand to guide you through the differences between speakers, amplifiers and sources and provide simple solutions that suit your needs."
+        }
+      ]
+    },
+    "services": {
+      "title": "Services",
+      "image": "/assets/Firmabilleder/recordplayer.png",
+      "imageAlt": "Audio equipment setup",
+      "highlightText": "Our passion for the products we sell and, for our customers' satisfaction simply means that we happily offer additional services not found on the high-street.",
+      "serviceList": [
+        {
+          "name": "Home Setup",
+          "description": "We want to ensure that the equipment you've purchased from us is installed correctly and sounds perfect, and we happily provide this service throughout the UK."
+        },
+        {
+          "name": "Part Exchange",
+          "description": "To help you upgrade your system, we offer our part-exchange program. We can offer a set price, or sell your old kit on your behalf."
+        },
+        {
+          "name": "Turntable Doctor",
+          "description": "Our turntable experts have been trained by the manufacturers for initial setup, long-term maintenance, and upgrading your high quality turntables."
+        },
+        {
+          "name": "Record Cleaning Service",
+          "description": "Have some old records that need a bit of love? We offer Scotland's very own professional record cleaning service with our bespoke Pro-Ject record cleaner."
+        }
+      ]
+    },
+    "tailored": {
+      "title": "Tailored For You",
+      "image": "/assets/Firmabilleder/closeupspeaker.png",
+      "imageAlt": "Audio equipment setup",
+      "highlightText": "We look forward to customising a system to meet your needs.",
+      "paragraphs": [
+        "We don't favour one manufacturer over another – the only thing we do favour is making sure our customers get the right product that suits their needs and listening preferences. We will ask many questions in order to ensure that what you buy from us is tailored to you and you alone.",
+        "If you are looking for a product not found in our demonstration showrooms or our online site, don't fret as we have access to hundreds of brands.",
+        "One of our biggest pleasures of working in this industry is to see the smile on our customers' faces when they finally hear and see the system of their dreams."
+      ]
+    }
+  }
 }
+
