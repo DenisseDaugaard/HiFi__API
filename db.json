@@ -106,8 +106,8 @@
       "tag": "popular",
       "img": "http://localhost:4000/Produktbilleder/hojtalere/harbeth_monitor30.jpg"
     }
-   ],
-   "aboutUs": {
+  ],
+  "aboutUs": {
     "id": 4001,
     "mainTitle": "OUR HISTORY",
     "lastUpdated": "2025-06-16T10:00:00Z",
