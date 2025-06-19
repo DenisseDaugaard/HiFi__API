@@ -217,8 +217,8 @@
         "brand": "Marantz",
         "model": "CD6007",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/marantz-cd6007-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/marantz-cd6007-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/marantz-cd6007-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/marantz-cd6007-silver.jpg" }
         ],
         "tags": ["mid-range", "popular", "sacd", "cd-player", "marantz"],
         "categories": ["cdafspillere", "disc-players", "mid-range-audio", "popular"]
@@ -241,8 +241,8 @@
         "brand": "Cambridge Audio",
         "model": "CXC V2",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/cambridge-cxc-v2-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/cambridge-cxc-v2-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/cambridge-cxc-v2-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/cambridge-cxc-v2-silver.jpg" }
         ],
         "tags": ["mid-range", "transport", "cd-player", "precision"],
         "categories": ["cdafspillere", "digital-transports", "mid-range-audio"]
@@ -265,8 +265,8 @@
         "brand": "Denon",
         "model": "DCD-1700NE",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/denon-dcd-1700ne-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/denon-dcd-1700ne-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/denon-dcd-1700ne-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/denon-dcd-1700ne-silver.jpg" }
         ],
         "tags": ["premium", "sacd", "lambda-converter", "al32-processing"],
         "categories": ["cdafspillere", "premium-audio", "disc-players"]
@@ -289,8 +289,8 @@
         "brand": "Yamaha",
         "model": "CD-S1000",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/cambridge-cxc-v2-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/cambridge-cxc-v2-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/cambridge-cxc-v2-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/cambridge-cxc-v2-silver.jpg" }
         ],
         "tags": ["premium", "popular", "natural-sound", "yamaha", "audiophile"],
         "categories": ["cdafspillere", "premium-audio", "natural-sound", "popular"]
