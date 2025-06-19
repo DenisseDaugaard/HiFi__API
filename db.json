@@ -122,9 +122,9 @@
         "brand": "Auralic",
         "model": "Aries G2.1",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif"  },
-          { "name": "Gold", "colorCode": "#FFD700", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif"  }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/creek_classic_cd.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/creek_Destiny_CD.jpg"  },
+          { "name": "Gold", "colorCode": "#FFD700", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/creek_evo_cd.jpg"  }
         ],
         "tags": ["premium", "popular", "streamer", "digital-audio", "high-resolution", "audiophile"],
         "categories": ["streamers", "digital-audio", "premium-audio", "popular"]
@@ -171,7 +171,7 @@
         "brand": "Bluesound",
         "model": "Node X",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/streamers/bluesound-node-x-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/streamers/bluesound-node-x-black.jpg" }
         ],
         "tags": ["mid-range", "popular", "wireless", "multi-room", "streamer"],
         "categories": ["streamers", "wireless-audio", "multi-room", "popular"]
@@ -194,7 +194,7 @@
         "brand": "iFi Audio",
         "model": "Zen Stream",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/streamers/ifi-zen-stream-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbillederifi-zen-stre/streamers/Pro_ject_Debut_3_bl.jpg" }
         ],
         "tags": ["budget", "transport", "jitter-reduction", "compact"],
         "categories": ["streamers", "budget-audio", "digital-transports"]
@@ -217,8 +217,8 @@
         "brand": "Marantz",
         "model": "CD6007",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/cdafspillere/marantz-cd6007-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/cdafspillere/marantz-cd6007-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/marantz-cd6007-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/marantz-cd6007-silver.jpg" }
         ],
         "tags": ["mid-range", "popular", "sacd", "cd-player", "marantz"],
         "categories": ["cdafspillere", "disc-players", "mid-range-audio", "popular"]
@@ -241,8 +241,8 @@
         "brand": "Cambridge Audio",
         "model": "CXC V2",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/cdafspillere/cambridge-cxc-v2-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/cdafspillere/cambridge-cxc-v2-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/cambridge-cxc-v2-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/cambridge-cxc-v2-silver.jpg" }
         ],
         "tags": ["mid-range", "transport", "cd-player", "precision"],
         "categories": ["cdafspillere", "digital-transports", "mid-range-audio"]
@@ -265,8 +265,8 @@
         "brand": "Denon",
         "model": "DCD-1700NE",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/cdafspillere/denon-dcd-1700ne-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/cdafspillere/denon-dcd-1700ne-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/denon-dcd-1700ne-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/denon-dcd-1700ne-silver.jpg" }
         ],
         "tags": ["premium", "sacd", "lambda-converter", "al32-processing"],
         "categories": ["cdafspillere", "premium-audio", "disc-players"]
@@ -289,8 +289,8 @@
         "brand": "Yamaha",
         "model": "CD-S1000",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/cdafspillere/yamaha-cd-s1000-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/cdafspillere/yamaha-cd-s1000-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/cambridge-cxc-v2-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cdafspillere/cambridge-cxc-v2-silver.jpg" }
         ],
         "tags": ["premium", "popular", "natural-sound", "yamaha", "audiophile"],
         "categories": ["cdafspillere", "premium-audio", "natural-sound", "popular"]
@@ -313,7 +313,7 @@
         "brand": "Oppo",
         "model": "UDP-205",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/dvdafspillere/oppo-udp-205-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/parasound_d200.jpg" }
         ],
         "tags": ["premium", "popular", "4k-uhd", "universal", "es9038pro"],
         "categories": ["dvdafspillere", "premium-audio", "4k-players", "popular"]
@@ -336,7 +336,7 @@
         "brand": "Panasonic",
         "model": "DP-UB9000",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/dvdafspillere/panasonic-dp-ub9000-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/panasonic-dp-ub9000-black.jpg" }
         ],
         "tags": ["premium", "4k-uhd", "hdr", "flagship"],
         "categories": ["dvdafspillere", "premium-audio", "4k-players"]
@@ -359,7 +359,7 @@
         "brand": "Sony",
         "model": "UBP-X800M2",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/dvdafspillere/sony-ubp-x800m2-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/sony-ubp-x800m2-black.jpg" }
         ],
         "tags": ["mid-range", "popular", "4k-uhd", "hdr", "accessible"],
         "categories": ["dvdafspillere", "mid-range-audio", "4k-players", "popular"]
@@ -382,8 +382,8 @@
         "brand": "Cambridge Audio",
         "model": "CXUHD",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/dvdafspillere/cambridge-cxuhd-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/dvdafspillere/cambridge-cxuhd-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/parasound_d200.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/cambridge-cxuhd-silver.jpg" }
         ],
         "tags": ["premium", "4k-uhd", "audiophile", "dedicated-processing"],
         "categories": ["dvdafspillere", "premium-audio", "home-cinema"]
@@ -395,7 +395,7 @@
         "price": 1295.00,
         "currency": "£",
         "description": "The Halo A23+ is a high-performance stereo power amplifier delivering 160 watts per channel into 8 ohms. Features John Curl's acclaimed circuit design with premium components for exceptional musical reproduction.",
-        "category": "effektforstærkere",
+        "category": "effektforstaerkere",
         "tag": "premium",
         "popularity": "popular",
         "inStock": true,
@@ -406,11 +406,11 @@
         "brand": "Parasound",
         "model": "Halo A23+",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/effektforstærkere/parasound-halo-a23-plus-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/effektforstærkere/parasound-halo-a23-plus-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/effektforstaerkere/manley_mahi.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/effektforstaerkere/manley_snapper.jpg" }
         ],
         "tags": ["premium", "popular", "john-curl", "160w", "stereo"],
-        "categories": ["effektforstærkere", "premium-audio", "stereo-amplifiers", "popular"]
+        "categories": ["effektforstaerkere", "premium-audio", "stereo-amplifiers", "popular"]
       },
       {
         "id": 3014,
@@ -419,7 +419,7 @@
         "price": 2499.00,
         "currency": "£",
         "description": "The RB-1590 is a flagship stereo power amplifier delivering 350 watts per channel. Features massive toroidal transformer, high-current output devices, and premium construction for reference-level performance.",
-        "category": "effektforstærkere",
+        "category": "effektforstaerkere",
         "tag": "premium",
         "popularity": "standard",
         "inStock": true,
@@ -430,11 +430,11 @@
         "brand": "Rotel",
         "model": "RB-1590",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/effektforstærkere/rotel-rb-1590-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/effektforstærkere/rotel-rb-1590-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/effektforstaerkere/parasound_haloa23.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/effektforstaerkere/parasound_haloa23.jpg" }
         ],
         "tags": ["premium", "flagship", "350w", "toroidal", "reference"],
-        "categories": ["effektforstærkere", "premium-audio", "flagship-amplifiers"]
+        "categories": ["effektforstaerkere", "premium-audio", "flagship-amplifiers"]
       },
       {
         "id": 3015,
@@ -443,7 +443,7 @@
         "price": 899.00,
         "currency": "£",
         "description": "The CXA81 is a versatile integrated amplifier with built-in DAC and comprehensive connectivity. Delivers 80 watts per channel with exceptional sound quality and modern convenience features.",
-        "category": "effektforstærkere",
+        "category": "effektforstaerkere",
         "tag": "mid-range",
         "popularity": "popular",
         "inStock": true,
@@ -454,20 +454,19 @@
         "brand": "Cambridge Audio",
         "model": "CXA81",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/effektforstærkere/cambridge-cxa81-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/effektforstærkere/cambridge-cxa81-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/effektforstaerkere/cambridge-cxc-v2-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/effektforstaerkere/cambridge-cxc-v2-silver.jpg" }
         ],
         "tags": ["mid-range", "popular", "integrated", "dac", "80w"],
-        "categories": ["effektforstærkere", "integrated-amplifiers", "mid-range-audio", "popular"]
-      },
-      {
+        "categories": ["effektforstaerkere", "integrated-amplifiers", "mid-range-audio", "popular"]
+      },      {
         "id": 3016,
         "name": "NAD C268",
         "subtitle": "(Stereo Power Amplifier)",
         "price": 649.00,
         "currency": "£",
         "description": "The C268 is a compact stereo power amplifier featuring NAD's advanced Hypex technology. Delivers 80 watts per channel with exceptional efficiency and sound quality in a sleek, modern design.",
-        "category": "effektforstærkere",
+        "category": "effektforstaerkere",
         "tag": "mid-range",
         "popularity": "standard",
         "inStock": false,
@@ -478,10 +477,10 @@
         "brand": "NAD",
         "model": "C268",
         "colorOptions": [
-          { "name": "Graphite", "colorCode": "#2F2F2F", "available": true, "img": "http://localhost:4000/Produktbilleder/effektforstærkere/nad-c268-graphite.jpg" }
+          { "name": "Graphite", "colorCode": "#2F2F2F", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/effektforstaerkere/parasound_haloa23.jpg" }
         ],
         "tags": ["mid-range", "hypex", "compact", "efficient", "80w"],
-        "categories": ["effektforstærkere", "compact-amplifiers", "mid-range-audio"]
+        "categories": ["effektforstaerkere", "compact-amplifiers", "mid-range-audio"]
       },
       {
         "id": 3017,
@@ -490,7 +489,7 @@
         "price": 6999.00,
         "currency": "£",
         "description": "The PM-10 is Marantz's flagship reference preamplifier featuring proprietary HDAM-SA3 modules and premium components. Delivers uncompromising sound quality with comprehensive connectivity and control options.",
-        "category": "forforstærkere",
+        "category": "forforstaerkere",
         "tag": "premium",
         "popularity": "standard",
         "inStock": true,
@@ -501,11 +500,11 @@
         "brand": "Marantz",
         "model": "PM-10",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/forforstærkere/marantz-pm-10-black.jpg" },
-          { "name": "Gold", "colorCode": "#B8860B", "available": true, "img": "http://localhost:4000/Produktbilleder/forforstærkere/marantz-pm-10-gold.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg" },
+          { "name": "Gold", "colorCode": "#B8860B", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/marantz-pm-10-gold.jpg" }
         ],
         "tags": ["premium", "reference", "flagship", "hdam-sa3", "marantz"],
-        "categories": ["forforstærkere", "premium-audio", "reference-components"]
+        "categories": ["forforstaerkere", "premium-audio", "reference-components"]
       },
       {
         "id": 3018,
@@ -514,7 +513,7 @@
         "price": 4999.00,
         "currency": "£",
         "description": "The LS28 is a high-performance vacuum tube preamplifier featuring 6H30 tubes and advanced circuit topology. Delivers the warmth and musicality of tubes with modern reliability and convenience.",
-        "category": "forforstærkere",
+        "category": "forforstaerkere",
         "tag": "premium",
         "popularity": "popular",
         "inStock": true,
@@ -525,11 +524,11 @@
         "brand": "Audio Research",
         "model": "LS28",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/forforstærkere/audio-research-ls28-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/forforstærkere/audio-research-ls28-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/audio-research-ls28-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg" }
         ],
         "tags": ["premium", "popular", "tube", "6h30", "musicality"],
-        "categories": ["forforstærkere", "tube-preamplifiers", "premium-audio", "popular"]
+        "categories": ["forforstaerkere", "tube-preamplifiers", "premium-audio", "popular"]
       },
       {
         "id": 3019,
@@ -538,7 +537,7 @@
         "price": 1595.00,
         "currency": "£",
         "description": "The Halo P6 is a sophisticated stereo preamplifier with built-in DAC and comprehensive digital/analog inputs. Features John Curl's circuit design with premium components for exceptional performance.",
-        "category": "forforstærkere",
+        "category": "forforstaerkere",
         "tag": "premium",
         "popularity": "standard",
         "inStock": false,
@@ -549,11 +548,11 @@
         "brand": "Parasound",
         "model": "Halo P6",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/forforstærkere/parasound-halo-p6-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/forforstærkere/parasound-halo-p6-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/parasound-halo-p6-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/parasound-halo-p6-silver.jpg" }
         ],
         "tags": ["premium", "john-curl", "dac", "stereo", "sophisticated"],
-        "categories": ["forforstærkere", "premium-audio", "dac-preamplifiers"]
+        "categories": ["forforstaerkere", "premium-audio", "dac-preamplifiers"]
       },
       {
         "id": 3020,
@@ -562,7 +561,7 @@
         "price": 799.00,
         "currency": "£",
         "description": "The CXC V2 combines a precision CD transport with a high-quality preamplifier section. Features comprehensive connectivity and exceptional build quality for versatile system integration.",
-        "category": "forforstærkere",
+        "category": "forforstaerkere",
         "tag": "mid-range",
         "popularity": "popular",
         "inStock": true,
@@ -573,11 +572,11 @@
         "brand": "Cambridge Audio",
         "model": "CXC V2",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/forforstærkere/cambridge-cxc-v2-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/forforstærkere/cambridge-cxc-v2-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/effektforstaerkere/manley_mahi.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Project_prebox.jpg" }
         ],
         "tags": ["mid-range", "popular", "transport", "versatile", "integration"],
-        "categories": ["forforstærkere", "transport-preamplifiers", "mid-range-audio", "popular"]
+        "categories": ["forforstaerkere", "transport-preamplifiers", "mid-range-audio", "popular"]
       },
       {
         "id": 3021,
@@ -586,7 +585,7 @@
         "price": 4799.00,
         "currency": "£",
         "description": "The LS50 Meta represents the evolution of KEF's acclaimed LS50 design, featuring breakthrough Metamaterial Absorption Technology. Delivers exceptionally detailed and natural sound with improved clarity and reduced distortion.",
-        "category": "højtalere",
+        "category": "hojtalere",
         "tag": "premium",
         "popularity": "popular",
         "inStock": true,
@@ -597,12 +596,12 @@
         "brand": "KEF",
         "model": "LS50 Meta",
         "colorOptions": [
-          { "name": "Carbon Black", "colorCode": "#1C1C1C", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/kef-ls50-meta-carbon-black.jpg" },
-          { "name": "Titanium Grey", "colorCode": "#696969", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/kef-ls50-meta-titanium-grey.jpg" },
-          { "name": "Royal Blue", "colorCode": "#4169E1", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/kef-ls50-meta-royal-blue.jpg" }
+          { "name": "Carbon Black", "colorCode": "#1C1C1C", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/boesendorfer_vcs_wall.gif" },
+          { "name": "Titanium Grey", "colorCode": "#696969", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/epos_m5.gif" },
+          { "name": "Royal Blue", "colorCode": "#4169E1", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/harbeth_hl7es2.jpg" }
         ],
         "tags": ["premium", "popular", "metamaterial", "bookshelf", "kef"],
-        "categories": ["højtalere", "bookshelf-speakers", "premium-audio", "popular"]
+        "categories": ["hojtalere", "bookshelf-speakers", "premium-audio", "popular"]
       },
       {
         "id": 3022,
@@ -611,7 +610,7 @@
         "price": 4999.00,
         "currency": "£",
         "description": "The 805 D4 combines advanced diamond tweeter technology with continuum cone midrange driver. Delivers reference-quality sound reproduction with exceptional detail, dynamics, and musicality.",
-        "category": "højtalere",
+        "category": "hojtalere",
         "tag": "premium",
         "popularity": "standard",
         "inStock": true,
@@ -622,11 +621,11 @@
         "brand": "Bowers & Wilkins",
         "model": "805 D4",
         "colorOptions": [
-          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/bw-805-d4-gloss-black.jpg" },
-          { "name": "Satin White", "colorCode": "#F8F8FF", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/bw-805-d4-satin-white.jpg" }
+          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/harbeth_monitor30.jpg" },
+          { "name": "Satin White", "colorCode": "#F8F8FF", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/harbeth_p3es2.jpg" }
         ],
         "tags": ["premium", "diamond-tweeter", "continuum", "reference", "bw"],
-        "categories": ["højtalere", "standmount-speakers", "premium-audio", "reference"]
+        "categories": ["hojtalere", "standmount-speakers", "premium-audio", "reference"]
       },
       {
         "id": 3023,
@@ -635,7 +634,7 @@
         "price": 899.00,
         "currency": "£",
         "description": "The Silver 100 7G features advanced C-CAM technology and refined crossover design. Delivers exceptional clarity and musical engagement with modern styling and premium build quality.",
-        "category": "højtalere",
+        "category": "hojtalere",
         "tag": "mid-range",
         "popularity": "popular",
         "inStock": true,
@@ -646,12 +645,12 @@
         "brand": "Monitor Audio",
         "model": "Silver 100 7G",
         "colorOptions": [
-          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/monitor-audio-silver-100-7g-black.jpg" },
-          { "name": "Satin White", "colorCode": "#F8F8FF", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/monitor-audio-silver-100-7g-white.jpg" },
-          { "name": "Walnut", "colorCode": "#8B4513", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/monitor-audio-silver-100-7g-walnut.jpg" }
+          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/monitor-audio-silver-100-7g-black.png" },
+          { "name": "Satin White", "colorCode": "#F8F8FF", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/monitor-audio-silver-100-7g-white.png" },
+          { "name": "Walnut", "colorCode": "#8B4513", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/monitor-audio-silver-100-7g-walnut.png" }
         ],
         "tags": ["mid-range", "popular", "c-cam", "musical", "refined"],
-        "categories": ["højtalere", "bookshelf-speakers", "mid-range-audio", "popular"]
+        "categories": ["hojtalere", "bookshelf-speakers", "mid-range-audio", "popular"]
       },
       {
         "id": 3024,
@@ -660,7 +659,7 @@
         "price": 499.00,
         "currency": "£",
         "description": "The DBR62 represents exceptional value in high-performance bookshelf speakers. Features advanced driver technology and precision engineering for audiophile sound quality at an accessible price.",
-        "category": "højtalere",
+        "category": "hojtalere",
         "tag": "budget",
         "popularity": "popular",
         "inStock": true,
@@ -671,11 +670,11 @@
         "brand": "ELAC",
         "model": "Debut Reference DBR62",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/elac-dbr62-black.jpg" },
-          { "name": "White", "colorCode": "#FFFFFF", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/elac-dbr62-white.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/elac-dbr62-black.png" },
+          { "name": "White", "colorCode": "#FFFFFF", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/elac-dbr62-white.png" }
         ],
         "tags": ["budget", "popular", "value", "audiophile", "accessible"],
-        "categories": ["højtalere", "budget-speakers", "bookshelf-speakers", "popular"]
+        "categories": ["hojtalere", "budget-speakers", "bookshelf-speakers", "popular"]
       },
       {
         "id": 3025,
@@ -684,7 +683,7 @@
         "price": 1299.00,
         "currency": "£",
         "description": "The Aria 906 features Focal's signature inverted dome tweeter and flax cone woofer technology. Delivers the distinctive French sound with exceptional detail, dynamics, and musical expression.",
-        "category": "højtalere",
+        "category": "hojtalere",
         "tag": "premium",
         "popularity": "standard",
         "inStock": false,
@@ -695,11 +694,11 @@
         "brand": "Focal",
         "model": "Aria 906",
         "colorOptions": [
-          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/focal-aria-906-black.jpg" },
-          { "name": "Walnut", "colorCode": "#8B4513", "available": true, "img": "http://localhost:4000/Produktbilleder/højtalere/focal-aria-906-walnut.jpg" }
+          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/focal-aria-906-black.png" },
+          { "name": "Walnut", "colorCode": "#8B4513", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/hojtalere/focal-aria-906-walnut.png" }
         ],
         "tags": ["premium", "inverted-dome", "flax-cone", "french-sound", "focal"],
-        "categories": ["højtalere", "premium-audio", "bookshelf-speakers"]
+        "categories": ["hojtalere", "premium-audio", "bookshelf-speakers"]
       },
       {
         "id": 3026,
@@ -719,8 +718,8 @@
         "brand": "Marantz",
         "model": "PM8006",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/int-forstærkere/marantz-pm8006-black.jpg" },
-          { "name": "Silver Gold", "colorCode": "#DAA520", "available": true, "img": "http://localhost:4000/Produktbilleder/int-forstærkere/marantz-pm8006-silver-gold.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/marantz-pm8006-black.jpg" },
+          { "name": "Silver Gold", "colorCode": "#DAA520", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/marantz-pm8006-silver-gold.jpg" }
         ],
         "tags": ["premium", "popular", "musical", "70w", "marantz"],
         "categories": ["int forstærkere", "premium-audio", "integrated-amplifiers", "popular"]
@@ -743,8 +742,8 @@
         "brand": "Cambridge Audio",
         "model": "CXA81",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/int-forstærkere/cambridge-cxa81-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/int-forstærkere/cambridge-cxa81-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/cambridge-cxa81-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/cambridge-cxa81-silver.jpg" }
         ],
         "tags": ["mid-range", "popular", "dac", "80w", "modern"],
         "categories": ["int forstærkere", "mid-range-audio", "integrated-amplifiers", "popular"]
@@ -767,7 +766,7 @@
         "brand": "Rega",
         "model": "Brio",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/int-forstærkere/rega-brio-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/rega-brio-black.jpg" }
         ],
         "tags": ["mid-range", "minimalist", "musical", "50w", "british"],
         "categories": ["int forstærkere", "mid-range-audio", "minimalist-amplifiers"]
@@ -790,7 +789,7 @@
         "brand": "NAD",
         "model": "C3050 LE",
         "colorOptions": [
-          { "name": "Graphite", "colorCode": "#2F2F2F", "available": true, "img": "http://localhost:4000/Produktbilleder/int-forstærkere/nad-c3050-le-graphite.jpg" }
+          { "name": "Graphite", "colorCode": "#2F2F2F", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/nad-c3050-le-graphite.jpg" }
         ],
         "tags": ["premium", "digital", "100w", "streaming", "powerdrive"],
         "categories": ["int forstærkere", "premium-audio", "streaming-amplifiers"]
@@ -813,8 +812,8 @@
         "brand": "Yamaha",
         "model": "A-S1200",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/int-forstærkere/yamaha-as1200-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/int-forstærkere/yamaha-as1200-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/yamaha-as1200-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/yamaha-as1200-silver.jpg" }
         ],
         "tags": ["premium", "popular", "flagship", "pure-direct", "natural-sound"],
         "categories": ["int forstærkere", "premium-audio", "flagship-amplifiers", "popular"]
@@ -837,8 +836,8 @@
         "brand": "Rega",
         "model": "Planar 3",
         "colorOptions": [
-          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/rega-planar-3-black.jpg" },
-          { "name": "Gloss White", "colorCode": "#FFFFFF", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/rega-planar-3-white.jpg" }
+          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/rega-planar-3-black.jpg" },
+          { "name": "Gloss White", "colorCode": "#FFFFFF", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/rega-planar-3-white.jpg" }
         ],
         "tags": ["mid-range", "popular", "rb330", "elys-2", "analog"],
         "categories": ["pladespillere", "mid-range-audio", "analog-turntables", "popular"]
@@ -861,9 +860,9 @@
         "brand": "Pro-Ject",
         "model": "Debut Carbon EVO",
         "colorOptions": [
-          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/pro-ject-debut-carbon-evo-black.jpg" },
-          { "name": "Satin White", "colorCode": "#F8F8FF", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/pro-ject-debut-carbon-evo-white.jpg" },
-          { "name": "High Gloss Red", "colorCode": "#DC143C", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/pro-ject-debut-carbon-evo-red.jpg" }
+          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/Pro_ject_rpm10.jpg" },
+          { "name": "Satin White", "colorCode": "#F8F8FF", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/Pro_ject_rpm10.jpg" },
+          { "name": "High Gloss Red", "colorCode": "#DC143C", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/Pro_ject_Debut_III_red_1.jpg" }
         ],
         "tags": ["budget", "popular", "carbon-fiber", "sumiko-rainier", "value"],
         "categories": ["pladespillere", "budget-audio", "entry-turntables", "popular"]
@@ -886,8 +885,8 @@
         "brand": "Technics",
         "model": "SL-1500C",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/technics-sl-1500c-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/technics-sl-1500c-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/technics-sl-1500c-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/technics-sl-1500c-silver.jpg" }
         ],
         "tags": ["premium", "direct-drive", "ortofon-red", "speed-stability", "technics"],
         "categories": ["pladespillere", "premium-audio", "direct-drive-turntables"]
@@ -910,7 +909,7 @@
         "brand": "VPI",
         "model": "Prime Scout",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/vpi-prime-scout-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/vpi-prime-scout-black.jpg" }
         ],
         "tags": ["premium", "belt-drive", "vpi-engineering", "analog", "meticulous"],
         "categories": ["pladespillere", "premium-audio", "belt-drive-turntables"]
@@ -933,8 +932,8 @@
         "brand": "Clearaudio",
         "model": "Concept",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/clearaudio-concept-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/pladespillere/clearaudio-concept-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/clearaudio-concept-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/clearaudio-concept-silver.png" }
         ],
         "tags": ["premium", "popular", "magnetic-bearing", "verify-tonearm", "german"],
         "categories": ["pladespillere", "premium-audio", "german-turntables", "popular"]
@@ -946,7 +945,7 @@
         "price": 2999.00,
         "currency": "£",
         "description": "The VSi60 is a premium tube integrated amplifier featuring KT120 output tubes. Delivers 50 watts per channel with the warmth and musicality that defines the Audio Research sound signature.",
-        "category": "rørforstærkere",
+        "category": "roer_forstaerkere",
         "tag": "premium",
         "popularity": "popular",
         "inStock": true,
@@ -957,11 +956,11 @@
         "brand": "Audio Research",
         "model": "VSi60",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/audio-research-vsi60-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/audio-research-vsi60-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/audio-research-vsi60-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/audio-research-vsi60-silver.jpg" }
         ],
         "tags": ["premium", "popular", "kt120", "50w", "tube"],
-        "categories": ["rørforstærkere", "tube-amplifiers", "premium-audio", "popular"]
+        "categories": ["roer_forstaerkere", "tube-amplifiers", "premium-audio", "popular"]
       },
       {
         "id": 3037,
@@ -970,7 +969,7 @@
         "price": 2499.00,
         "currency": "£",
         "description": "The EVO 400 features adaptive auto bias and premium EL34 tubes. Delivers exceptional tube sound with modern reliability and comprehensive protection circuitry for worry-free operation.",
-        "category": "rørforstærkere",
+        "category": "roer_forstaerkere",
         "tag": "premium",
         "popularity": "standard",
         "inStock": true,
@@ -981,11 +980,11 @@
         "brand": "PrimaLuna",
         "model": "EVO 400 Integrated",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/primaluna-evo-400-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/primaluna-evo-400-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/primaluna-evo-400-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/primaluna-evo-400-silver.jpg" }
         ],
         "tags": ["premium", "adaptive-bias", "el34", "protection", "modern"],
-        "categories": ["rørforstærkere", "tube-amplifiers", "premium-audio"]
+        "categories": ["roer_forstaerkere", "tube-amplifiers", "premium-audio"]
       },
       {
         "id": 3038,
@@ -994,7 +993,7 @@
         "price": 1899.00,
         "currency": "£",
         "description": "The Cronus Magnum III is a versatile tube integrated featuring KT120 tubes and comprehensive connectivity. Offers exceptional value with premium tube sound and modern convenience features.",
-        "category": "rørforstærkere",
+        "category": "roer_forstaerkere",
         "tag": "mid-range",
         "popularity": "popular",
         "inStock": true,
@@ -1005,10 +1004,10 @@
         "brand": "Rogue Audio",
         "model": "Cronus Magnum III",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/rogue-cronus-magnum-iii-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/rogue-cronus-magnum-iii-black.jpg" }
         ],
         "tags": ["mid-range", "popular", "kt120", "versatile", "value"],
-        "categories": ["rørforstærkere", "tube-amplifiers", "mid-range-audio", "popular"]
+        "categories": ["roer_forstaerkere", "tube-amplifiers", "mid-range-audio", "popular"]
       },
       {
         "id": 3039,
@@ -1017,7 +1016,7 @@
         "price": 1599.00,
         "currency": "£",
         "description": "The A-88T MK2 features EL34 push-pull design with premium transformers. Delivers 35 watts per channel with classic tube warmth and exceptional build quality from this respected Chinese manufacturer.",
-        "category": "rørforstærkere",
+        "category": "roer_forstaerkere",
         "tag": "mid-range",
         "popularity": "standard",
         "inStock": false,
@@ -1028,11 +1027,11 @@
         "brand": "Cayin",
         "model": "A-88T MK2",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/cayin-a88t-mk2-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/cayin-a88t-mk2-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/cayin-a88t-mk2-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/cayin-a88t-mk2-silver.jpg" }
         ],
         "tags": ["mid-range", "el34", "push-pull", "35w", "classic"],
-        "categories": ["rørforstærkere", "tube-amplifiers", "mid-range-audio"]
+        "categories": ["roer_forstaerkere", "tube-amplifiers", "mid-range-audio"]
       },
       {
         "id": 3040,
@@ -1041,7 +1040,7 @@
         "price": 3499.00,
         "currency": "£",
         "description": "The Sinfonia is a premium Italian tube amplifier featuring EL34 pentode/triode switching. Delivers 35 watts per channel with exquisite Italian craftsmanship and exceptional musical expression.",
-        "category": "rørforstærkere",
+        "category": "roer_forstaerkere",
         "tag": "premium",
         "popularity": "standard",
         "inStock": true,
@@ -1052,11 +1051,11 @@
         "brand": "Unison Research",
         "model": "Sinfonia",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/unison-research-sinfonia-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/rørforstærkere/unison-research-sinfonia-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/unison-research-sinfonia-black.jpg" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/unison-research-sinfonia-silver.jpg" }
         ],
         "tags": ["premium", "italian", "el34", "pentode-triode", "craftsmanship"],
-        "categories": ["rørforstærkere", "tube-amplifiers", "premium-audio", "italian-audio"]
+        "categories": ["roer_forstaerkere", "tube-amplifiers", "premium-audio", "italian-audio"]
       }
   ]
 }
