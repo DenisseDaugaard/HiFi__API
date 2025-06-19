@@ -171,7 +171,7 @@
         "brand": "Bluesound",
         "model": "Node X",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/streamers/bluesound-node-x-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/streamers/bluesound-node-x-black.png" }
         ],
         "tags": ["mid-range", "popular", "wireless", "multi-room", "streamer"],
         "categories": ["streamers", "wireless-audio", "multi-room", "popular"]
@@ -194,7 +194,7 @@
         "brand": "iFi Audio",
         "model": "Zen Stream",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbillederifi-zen-stre/streamers/Pro_ject_Debut_3_bl.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/Pro_ject_Debut_3_bl.png" }
         ],
         "tags": ["budget", "transport", "jitter-reduction", "compact"],
         "categories": ["streamers", "budget-audio", "digital-transports"]
@@ -217,8 +217,8 @@
         "brand": "Marantz",
         "model": "CD6007",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/marantz-cd6007-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/marantz-cd6007-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/marantz-cd6007-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/marantz-cd6007-silver.png" }
         ],
         "tags": ["mid-range", "popular", "sacd", "cd-player", "marantz"],
         "categories": ["cdafspillere", "disc-players", "mid-range-audio", "popular"]
@@ -265,8 +265,8 @@
         "brand": "Denon",
         "model": "DCD-1700NE",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/denon-dcd-1700ne-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/denon-dcd-1700ne-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/denon-dcd-1700ne-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/denon-dcd-1700ne-silver.png" }
         ],
         "tags": ["premium", "sacd", "lambda-converter", "al32-processing"],
         "categories": ["cdafspillere", "premium-audio", "disc-players"]
@@ -289,8 +289,8 @@
         "brand": "Yamaha",
         "model": "CD-S1000",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/cambridge-cxc-v2-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/cambridge-cxc-v2-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/cambridge-cxc-v2-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/cambridge-cxc-v2-silver.png" }
         ],
         "tags": ["premium", "popular", "natural-sound", "yamaha", "audiophile"],
         "categories": ["cdafspillere", "premium-audio", "natural-sound", "popular"]
@@ -359,7 +359,7 @@
         "brand": "Sony",
         "model": "UBP-X800M2",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/sony-ubp-x800m2-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/sony-ubp-x800m2-black.png" }
         ],
         "tags": ["mid-range", "popular", "4k-uhd", "hdr", "accessible"],
         "categories": ["dvdafspillere", "mid-range-audio", "4k-players", "popular"]
@@ -382,8 +382,8 @@
         "brand": "Cambridge Audio",
         "model": "CXUHD",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/parasound_d200.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/cambridge-cxuhd-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/marantz-cd6007-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/marantz-cd6007-silver.png" }
         ],
         "tags": ["premium", "4k-uhd", "audiophile", "dedicated-processing"],
         "categories": ["dvdafspillere", "premium-audio", "home-cinema"]
@@ -500,7 +500,7 @@
         "brand": "Marantz",
         "model": "PM-10",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg" },
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/creek_Destiny_CD.jpg" },
           { "name": "Gold", "colorCode": "#B8860B", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/marantz-pm-10-gold.jpg" }
         ],
         "tags": ["premium", "reference", "flagship", "hdam-sa3", "marantz"],
@@ -718,8 +718,8 @@
         "brand": "Marantz",
         "model": "PM8006",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/marantz-pm8006-black.jpg" },
-          { "name": "Silver Gold", "colorCode": "#DAA520", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/marantz-pm8006-silver-gold.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/marantz-pm8006-black.png" },
+          { "name": "Silver Gold", "colorCode": "#DAA520", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/marantz-pm8006-silver-gold.png" }
         ],
         "tags": ["premium", "popular", "musical", "70w", "marantz"],
         "categories": ["int forstærkere", "premium-audio", "integrated-amplifiers", "popular"]
@@ -742,8 +742,8 @@
         "brand": "Cambridge Audio",
         "model": "CXA81",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/cambridge-cxa81-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/cambridge-cxa81-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/cambridge-cxa81-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/cambridge-cxa81-silver.png" }
         ],
         "tags": ["mid-range", "popular", "dac", "80w", "modern"],
         "categories": ["int forstærkere", "mid-range-audio", "integrated-amplifiers", "popular"]
@@ -766,7 +766,7 @@
         "brand": "Rega",
         "model": "Brio",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/rega-brio-black.jpg" }
+          { "name": "Silver", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/creek_classic5350SE.jpg" }
         ],
         "tags": ["mid-range", "minimalist", "musical", "50w", "british"],
         "categories": ["int forstærkere", "mid-range-audio", "minimalist-amplifiers"]
@@ -789,7 +789,7 @@
         "brand": "NAD",
         "model": "C3050 LE",
         "colorOptions": [
-          { "name": "Graphite", "colorCode": "#2F2F2F", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/nad-c3050-le-graphite.jpg" }
+          { "name": "Graphite", "colorCode": "#2F2F2F", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/nad-c3050-le-graphite.png" }
         ],
         "tags": ["premium", "digital", "100w", "streaming", "powerdrive"],
         "categories": ["int forstærkere", "premium-audio", "streaming-amplifiers"]
@@ -812,8 +812,8 @@
         "brand": "Yamaha",
         "model": "A-S1200",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/yamaha-as1200-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/yamaha-as1200-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/yamaha-as1200-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/int_forstaerkere/yamaha-as1200-silver.png" }
         ],
         "tags": ["premium", "popular", "flagship", "pure-direct", "natural-sound"],
         "categories": ["int forstærkere", "premium-audio", "flagship-amplifiers", "popular"]
@@ -836,8 +836,8 @@
         "brand": "Rega",
         "model": "Planar 3",
         "colorOptions": [
-          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/rega-planar-3-black.jpg" },
-          { "name": "Gloss White", "colorCode": "#FFFFFF", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/rega-planar-3-white.jpg" }
+          { "name": "Gloss Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/rega-planar-3-black.png" },
+          { "name": "Gloss White", "colorCode": "#FFFFFF", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/rega-planar-3-white.png" }
         ],
         "tags": ["mid-range", "popular", "rb330", "elys-2", "analog"],
         "categories": ["pladespillere", "mid-range-audio", "analog-turntables", "popular"]
@@ -885,8 +885,8 @@
         "brand": "Technics",
         "model": "SL-1500C",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/technics-sl-1500c-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/technics-sl-1500c-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/technics-sl-1500c-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/technics-sl-1500c-silver.png" }
         ],
         "tags": ["premium", "direct-drive", "ortofon-red", "speed-stability", "technics"],
         "categories": ["pladespillere", "premium-audio", "direct-drive-turntables"]
@@ -909,7 +909,7 @@
         "brand": "VPI",
         "model": "Prime Scout",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/vpi-prime-scout-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/pladespillere/vpi-prime-scout-black.png" }
         ],
         "tags": ["premium", "belt-drive", "vpi-engineering", "analog", "meticulous"],
         "categories": ["pladespillere", "premium-audio", "belt-drive-turntables"]
