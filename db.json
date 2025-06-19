@@ -336,7 +336,7 @@
         "brand": "Panasonic",
         "model": "DP-UB9000",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/panasonic-dp-ub9000-black.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/Panasonic_dUB9000.png" }
         ],
         "tags": ["premium", "4k-uhd", "hdr", "flagship"],
         "categories": ["dvdafspillere", "premium-audio", "4k-players"]
@@ -382,8 +382,8 @@
         "brand": "Cambridge Audio",
         "model": "CXUHD",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/marantz-cd6007-black.png" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/marantz-cd6007-silver.png" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/Cambridge_Audio_CXUHD.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/dvdafspillere/Cambridge_Audio_CXUHD_silver.png" }
         ],
         "tags": ["premium", "4k-uhd", "audiophile", "dedicated-processing"],
         "categories": ["dvdafspillere", "premium-audio", "home-cinema"]
@@ -500,8 +500,8 @@
         "brand": "Marantz",
         "model": "PM-10",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/creek_Destiny_CD.jpg" },
-          { "name": "Gold", "colorCode": "#B8860B", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/marantz-pm-10-gold.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Marantz-PM-10.png" },
+          { "name": "Gold", "colorCode": "#B8860B", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Marantz-PM-10-silver.png" }
         ],
         "tags": ["premium", "reference", "flagship", "hdam-sa3", "marantz"],
         "categories": ["forforstaerkere", "premium-audio", "reference-components"]
@@ -524,8 +524,8 @@
         "brand": "Audio Research",
         "model": "LS28",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/audio-research-ls28-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Creek_OBH_22_Passive_Preamp.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Audio-Research-LS28-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/Audio-Research-LS28.png" }
         ],
         "tags": ["premium", "popular", "tube", "6h30", "musicality"],
         "categories": ["forforstaerkere", "tube-preamplifiers", "premium-audio", "popular"]
@@ -548,8 +548,8 @@
         "brand": "Parasound",
         "model": "Halo P6",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/parasound-halo-p6-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/parasound-halo-p6-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/parasound-halo-p6-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/forforstaerkere/parasound-halo-p6-silver.png" }
         ],
         "tags": ["premium", "john-curl", "dac", "stereo", "sophisticated"],
         "categories": ["forforstaerkere", "premium-audio", "dac-preamplifiers"]
@@ -980,8 +980,8 @@
         "brand": "PrimaLuna",
         "model": "EVO 400 Integrated",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/primaluna-evo-400-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/primaluna-evo-400-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/primaluna-evo-400-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/primaluna-evo-400-silver.png" }
         ],
         "tags": ["premium", "adaptive-bias", "el34", "protection", "modern"],
         "categories": ["roer_forstaerkere", "tube-amplifiers", "premium-audio"]
@@ -1027,8 +1027,8 @@
         "brand": "Cayin",
         "model": "A-88T MK2",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/cayin-a88t-mk2-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/cayin-a88t-mk2-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/cayin-a88t-mk2-black.png" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/cayin-a88t-mk2-silver.png" }
         ],
         "tags": ["mid-range", "el34", "push-pull", "35w", "classic"],
         "categories": ["roer_forstaerkere", "tube-amplifiers", "mid-range-audio"]
@@ -1051,8 +1051,7 @@
         "brand": "Unison Research",
         "model": "Sinfonia",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/unison-research-sinfonia-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/unison-research-sinfonia-silver.jpg" }
+          { "name": "Walnut", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/roer_forstaerkere/unison-research-sinfonia-walnut.png" }
         ],
         "tags": ["premium", "italian", "el34", "pentode-triode", "craftsmanship"],
         "categories": ["roer_forstaerkere", "tube-amplifiers", "premium-audio", "italian-audio"]
