@@ -122,9 +122,9 @@
         "brand": "Auralic",
         "model": "Aries G2.1",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/streamers/auralic-aries-g2-1-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/streamers/auralic-aries-g2-1-silver.jpg" },
-          { "name": "Gold", "colorCode": "#FFD700", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/streamers/auralic-aries-g2-1-gold.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif" },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif"  },
+          { "name": "Gold", "colorCode": "#FFD700", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif"  }
         ],
         "tags": ["premium", "popular", "streamer", "digital-audio", "high-resolution", "audiophile"],
         "categories": ["streamers", "digital-audio", "premium-audio", "popular"]
@@ -147,8 +147,8 @@
         "brand": "Cambridge Audio",
         "model": "CXN V2",
         "colorOptions": [
-          { "name": "Black", "colorCode": "#000000", "available": true, "img": "http://localhost:4000/Produktbilleder/streamers/cambridge-cxn-v2-black.jpg" },
-          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "http://localhost:4000/Produktbilleder/streamers/cambridge-cxn-v2-silver.jpg" }
+          { "name": "Black", "colorCode": "#000000", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif"  },
+          { "name": "Silver", "colorCode": "#C0C0C0", "available": true, "img": "https://hifi-api-o08m.onrender.com/Produktbilleder/cd_afspillere/Exp_2010S_CD.gif" }
         ],
         "tags": ["mid-range", "streamer", "network-player", "dac", "cambridge"],
         "categories": ["streamers", "digital-audio", "mid-range-audio"]
