@@ -11,6 +11,16 @@
       "country": "Denmark"
     },
     {
+      "id": 3,
+      "name": "Denisse Daugaard",
+      "phone": 50635589,
+      "email": "den@rts.dk",
+      "password": "$2a$10$bbeRYksb2wHNhyc3Zeq9aOSVM0gIJ2qbnqD.PCQqbA/RTw2jqfbQS",
+      "address": "Street 1, City",
+      "city": "Ishøj",
+      "country": "Denmark"
+    },
+    {
       "email": "be@rts.dk",
       "password": "$2a$10$UfP6k.L1l0g2bVXilU1m4.urko74nX91sSxAmyMexBAexh5kHrdmK",
       "id": 2
