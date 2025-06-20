@@ -11,16 +11,25 @@
       "country": "Denmark"
     },
     {
-      "email": "be@rts.dk",
-      "password": "$2a$10$UfP6k.L1l0g2bVXilU1m4.urko74nX91sSxAmyMexBAexh5kHrdmK",
-      "id": 2
+      "id": 2,
+      "name": "Denisse Daugaard",
+      "phone": 50635589,
+      "email": "den@rts.dk",
+      "password": "$2a$10$bbeRYksb2wHNhyc3Zeq9aOSVM0gIJ2qbnqD.PCQqbA/RTw2jqfbQS",
+      "address": "Street 1, City",
+      "city": "Ishøj",
+      "country": "Denmark"
     },
     {
-      "email": "user@exp.dk",
-      "password": "$2a$10$4AT2cOwXGszk6QbZVoiG9e27A4JROSuTkK1dpZpHzgN.j7C6PJqDW",
-      "username": "Random User",
-      "id": 4
-    },
+      "email": "tere@rts.dk",
+      "password": "$2a$10$raQZRnF9qo7bEjlNpT75yeMd/2yufTHURXoRi82xE007J4LVjQ4vm",
+      "name": "Teresa Rios",
+      "phone": "56587896",
+      "address": "Egebjerg Alle",
+      "city": "Hellerup",
+      "country": "Danmark",
+      "id": 3
+   },
     {
       "email": "mikelamann1@gmail.com",
       "password": "$2a$10$858C3VI.qi5rW7wLNm2afeAcMe9zcjmJZCwSke8oQtlzQGa7wPW6e",
@@ -29,7 +38,7 @@
       "address": "Krystalgade 11A, 1. Tv",
       "city": "Kbh K",
       "country": "Danmark",
-      "id": 5
+      "id": 4
     }
   ],
   
